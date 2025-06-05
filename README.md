@@ -1,2 +1,30 @@
-# Purr-Ai
-PurrAI is a modern landing page crafted to promote AI-powered Solana trading bots. It introduces tools like the Call Bot, Purr Buy Bot, and Pumpfun Sniper, emphasizing speed, simplicity, and user-friendly design. The site features a clean layout, engaging visuals, and clear sections for features, roadmap, and goals.
+# PurrAI – Solana Trading Bot Landing Page 🐾
+
+PurrAI is a sleek, modern landing page designed to promote a suite of AI-powered Solana trading bots. Built for traders of all levels, the site highlights tools like the **AI Call Bot**, **Purr Buy Bot**, and **Pumpfun Sniper**, emphasizing performance, simplicity, and smart automation.
+
+## 🌐 Live Preview
+> _Coming soon_ – deploy via GitHub Pages, Vercel, or Netlify.
+
+---
+
+## 📌 Features
+
+- ✨ Clean and responsive UI
+- 🧠 Promotes AI-based trading tools
+- ⚡ Fast-loading, mobile-friendly layout
+- 📈 Roadmap and feature highlights
+- 📣 Clear call-to-action (CTA) for user engagement
+- ❤️ Themed around cats and community trading
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+.
+├── mc.html           # Main HTML file
+├── style.css         # Custom styles for all sections
+├── script.js         # Sidebar menu toggle
+├── /images           # Hero, icons, and assets
+
+
