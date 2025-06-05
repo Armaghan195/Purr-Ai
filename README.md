@@ -3,7 +3,7 @@
 PurrAI is a sleek, modern landing page designed to promote a suite of AI-powered Solana trading bots. Built for traders of all levels, the site highlights tools like the **AI Call Bot**, **Purr Buy Bot**, and **Pumpfun Sniper**, emphasizing performance, simplicity, and smart automation.
 
 ## 🌐 Live Preview
-> _Coming soon_ – deploy via GitHub Pages, Vercel, or Netlify.
+> https://armaghan195.github.io/Purr-Ai/mc.html
 
 ---
 
