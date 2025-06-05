@@ -22,6 +22,7 @@ PurrAI is a sleek, modern landing page designed to promote a suite of AI-powered
 
 ```plaintext
 .
+|── index.html        # Loading File
 ├── mc.html           # Main HTML file
 ├── style.css         # Custom styles for all sections
 ├── script.js         # Sidebar menu toggle
